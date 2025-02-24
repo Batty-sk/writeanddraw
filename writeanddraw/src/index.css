@@ -12,3 +12,10 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+
+
+div{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+}
