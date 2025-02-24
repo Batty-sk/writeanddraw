@@ -13,9 +13,12 @@
     padding: 0 15px;
 }
 
-
 div{
     border: 1px solid red;
     padding: 10px;
     margin: 10px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f9f9;
 }
